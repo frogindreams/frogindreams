@@ -1,6 +1,6 @@
 ![Header](https://github.com/frogindreams/frogindreams/blob/main/assests/maxresdefault.jpg)
 
-My name's Kirill aka frog.harvard
+My name's Kirill aka <b>frog.harvard</b>
 ## I'm a student and a backend developer
 ![Neovim](https://img.shields.io/badge/-Neovim-191919?style=for-the-badge&logo=Neovim&logoColor=86DC3D)
 ![JavaScript](https://img.shields.io/badge/-JavaSctipt-191919?style=for-the-badge&logo=JavaScript&logoColor=FFFF33)
@@ -21,4 +21,3 @@ My name's Kirill aka frog.harvard
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=frogindreams&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frogindreams)](https://github.com/anuraghazra/github-readme-stats)
