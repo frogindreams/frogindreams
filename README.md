@@ -21,3 +21,4 @@ My name's Kirill aka frog.harvard
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=frogindreams&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frogindreams)](https://github.com/anuraghazra/github-readme-stats)
