@@ -19,4 +19,4 @@ My name's Kirill aka frog.harvard
 [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=BFE6FF)](https://twitter.com/FrogHarvard)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=frogindreams&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=frogindreams&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
