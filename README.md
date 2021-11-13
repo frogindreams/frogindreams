@@ -14,3 +14,6 @@ My name's Kirill aka frog.harvard
 
 
 ### Follow me
+[![VK](https://img.shields.io/badge/-VK-FFFFFF?style=plastic&logo=VK&logoColor=87CEEB)](https://vk.com/kirill.koro)
+[![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=plastic&logo=Telegram&logoColor=003166)](https://t.me/frogharvard)
+[![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=plastic&logo=Twitter&logoColor=BFE6FF)](https://twitter.com/FrogHarvard)
