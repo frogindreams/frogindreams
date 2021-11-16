@@ -13,6 +13,7 @@ My name's Kirill aka <b>frog.harvard</b> ✨
 ![Git](https://img.shields.io/badge/-Git-191919?style=for-the-badge&logo=Git&logoColor=E61236)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frogindreams&repo=Tetris)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frogindreams&repo=backend-application)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow me
 [![VK](https://img.shields.io/badge/-VK-FFFFFF?style=for-the-badge&logo=VK&logoColor=87CEEB)](https://vk.com/kirill.koro)
