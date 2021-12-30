@@ -13,6 +13,3 @@ My name's Kirill aka <b>frog.harvard</b> ✨
 [![VK](https://img.shields.io/badge/-VK-FFFFFF?style=for-the-badge&logo=VK&logoColor=87CEEB)](https://vk.com/kirill.koro)
 [![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=003166)](https://t.me/frogharvard)
 [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=BFE6FF)](https://twitter.com/FrogHarvard)
-
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frogindreams)](https://github.com/anuraghazra/github-readme-stats)
