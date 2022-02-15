@@ -5,7 +5,6 @@ My name's Kirill aka <b>frog.harvard</b> ✨
 ![Linux](https://img.shields.io/badge/-Linux-191919?style=for-the-badge&logo=Linux&logoColor=9B6DFF)
 ![Git](https://img.shields.io/badge/-Git-191919?style=for-the-badge&logo=Git&logoColor=E61236)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frogindreams&repo=Sudoku-via-Java)](https://github.com/frogindreams/Sudoku-via-Java/tree/developing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frogindreams&repo=Tetris)](https://github.com/frogindreams/Tetris)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frogindreams&repo=More-more-area)](https://github.com/frogindreams/More-more-area)
 
