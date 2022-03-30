@@ -11,4 +11,5 @@ My name's Kirill aka <b>frog.harvard</b> ✨
 ### Follow me
 [![VK](https://img.shields.io/badge/-VK-FFFFFF?style=for-the-badge&logo=VK&logoColor=87CEEB)](https://vk.com/kirill.koro)
 [![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=003166)](https://t.me/frogharvard)
+[![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=003166)](https://t.me/botwithme)
 [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=BFE6FF)](https://twitter.com/FrogHarvard)
