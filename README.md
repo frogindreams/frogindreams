@@ -6,6 +6,7 @@ My name's Kirill aka <b>frog.harvard</b> ✨
 ![Git](https://img.shields.io/badge/-Git-191919?style=for-the-badge&logo=Git&logoColor=E61236)
 
 ![Apache Maven](http://img.shields.io/maven-central/v/org.jboss.weld.se/weld-se-shaded.svg)
+![JUnit](https://img.shields.io/badge/junit-v.5.8.2-blue)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frogindreams&repo=Apple-mixed)](https://github.com/frogindreams/Apple-mixed)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frogindreams&repo=Tetris)](https://github.com/frogindreams/Tetris)
