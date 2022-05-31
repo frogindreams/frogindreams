@@ -16,3 +16,6 @@ My name's Kirill aka <b>frog.harvard</b> ✨
 [![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=003166)](https://t.me/frogharvard)
 [![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=003166)](https://t.me/botwithme)
 [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=BFE6FF)](https://twitter.com/frogharvard)
+
+### Spotify 
+[![Spotify](https://what-are-you-listening-to-private.vercel.app/api/spotify)](https://open.spotify.com/user/z31ss9dz1cg6alsfhvfmmh828)
