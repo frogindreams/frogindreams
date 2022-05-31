@@ -18,4 +18,4 @@ My name's Kirill aka <b>frog.harvard</b> ✨
 [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=BFE6FF)](https://twitter.com/frogharvard)
 
 ### Spotify 
-[![Spotify](https://what-are-you-listening-to-private.vercel.app/api/spotify)](https://open.spotify.com/user/z31ss9dz1cg6alsfhvfmmh828)
+[![Spotify](https://novatorem.frogindreams.vercel.app/api/spotify)](https://open.spotify.com/user/z31ss9dz1cg6alsfhvfmmh828)
