@@ -14,8 +14,6 @@ My name's Kira aka <b>frog.harvard</b> ✨
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frogindreams&repo=Apple-mixed)](https://github.com/frogindreams/Apple-mixed)
-
 ### Follow me
 [![VK](https://img.shields.io/badge/-VK-FFFFFF?style=for-the-badge&logo=VK&logoColor=87CEEB)](https://vk.com/kirill.koro)
 [![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=Telegram&logoColor=003166)](https://t.me/frogharvard)
