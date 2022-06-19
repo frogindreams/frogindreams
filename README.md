@@ -1,4 +1,4 @@
-My name's Kirill aka <b>frog.harvard</b> ✨
+My name's Kira aka <b>frog.harvard</b> ✨
 ## I'm a student and a bloody hell software developer
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
