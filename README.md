@@ -1,5 +1,5 @@
 My name's Kira aka <b>frog.harvard</b> ✨
-## I'm a student and a bloody hell software developer
+## I'm a student and a bloody hell backend developer
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
